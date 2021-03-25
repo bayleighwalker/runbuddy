@@ -1,14 +1,15 @@
-# Run Buddy
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://bayleighwalker.github.io/runbuddy/
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Bayleigh Walker]
+
+### ©️2019 Run Buddy, Inc 
